@@ -1,3 +1,5 @@
+-- 5.1 global companies sql questions together with answers
+
 -- Company: Spotify
 
 -- You're assigned to analyze a Spotify-like dataset that records user listening habits. 
